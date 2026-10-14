@@ -135,18 +135,6 @@ If the project contains a solution file or multiple projects, select the appropr
 
 Developed as part of the **Software Engineering (SW Engineering — Simulation)** course for the BSc (Hons) in Computing program at Aegean College.
 
-## 👨‍💻 Author
-
-**Thodoris Tolis**
-
-GitHub: [@ThodorisTolis](https://github.com/ThodorisTolis)
-
-## 📄 License
-
-No open-source license has been specified. Unless a license is added, the source code remains subject to applicable copyright law.
-
----
-
 <p align="center">
   <b>Logistics Simulation System</b><br>
   Simulating logistics. Comparing strategies. Optimizing profit.
